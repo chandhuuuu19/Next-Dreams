@@ -1,0 +1,16 @@
+node_modules/
+.pnpm-store/
+.venv/
+backend/.venv/
+.next/
+out/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+backend/.env
+.env
+.env.*
+!.env.example
+!backend/.env.example
+*.tsbuildinfo

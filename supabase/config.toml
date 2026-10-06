@@ -1,0 +1,4 @@
+project_id = "next-dreams"
+
+[db.seed]
+sql_paths = ["./seed.sql"]
